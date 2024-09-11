@@ -154,10 +154,15 @@ hero p{
     
     
 }
+button{
+    font-weight:700;
+    
+}
+
 button p{
     text-align: center;
     margin-left: 45px;
-    font-weight: 700;
+    font-weight: 900;
 
 }
 
