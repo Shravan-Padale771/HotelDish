@@ -154,10 +154,7 @@ hero p{
     
     
 }
-button{
-    font-weight:700;
-    
-}
+
 
 button p{
     text-align: center;
@@ -178,7 +175,7 @@ button p{
     background-color:  #e5ff1b;
     letter-spacing: 2px;
     width:max-content;
-    
+    font-weight:700;
     padding: 1vw 1vw;
     border:1px solid  #c6dd17;
     border-radius: 32px;
